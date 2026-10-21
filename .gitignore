@@ -72,3 +72,7 @@ Plugins/**/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+
+# Local AI agent config (machine-specific absolute paths)
+.unrealmcp.json
+opencode.json
